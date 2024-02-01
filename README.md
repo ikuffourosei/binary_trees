@@ -1,6 +1,6 @@
 # Binary Tree
 
-AUTHOR: ## *OSEI KUFFOUR EMMANUEL*
+AUTHOR: *OSEI KUFFOUR EMMANUEL*
 
 # Basic Binary Tree
 ##  header file must contain the following
